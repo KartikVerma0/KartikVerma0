@@ -27,8 +27,10 @@
     <li>Connect with Me: &emsp;<a href="https://www.linkedin.com/in/kartikvr/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/></a>
   </ul>
 </span>
-
-<br>
+<br><br>
+<div>
+  <img src="lottie-animation\animation_200_l0cc5n6c.gif">
+</div>
 <h2>:hammer_and_wrench: Languages and Tools</h2>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&emsp;
@@ -41,7 +43,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" **alt="GitHub" width="40" height="40"/>&emsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SCSS" **alt="SCSS" width="40" height="40"/>&emsp;
 </div>
-<br>
+<br><br>
+<div>
+  <img src="lottie-animation\animation_200_l0ccl9y4.gif">
+</div>
 <h2>:fire: My Stats :</h2>
 
 
