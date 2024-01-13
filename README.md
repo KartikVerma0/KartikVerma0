@@ -43,6 +43,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" **alt="GitHub" width="40" height="40"/>&emsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SCSS" **alt="SCSS" width="40" height="40"/>&emsp;
   <img src="https://greensock.com/uploads/monthly_2020_03/tweenmax.png.cf27916e926fbb328ff214f66b4c8429.png" title="GSAP" **alt="GSAP" width="40" height="40"/>&emsp;
+  <img src="https://expressjs.com/images/favicon.png" title="ExpressJS" **alt="ExpressJS" width="40" height="40"/>&emsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" **alt="MongoDB" width="40" height="40"/>&emsp;
 </div>
 <br><br>
 <div>
@@ -51,7 +53,5 @@
 <h2>:fire: My Stats :</h2>
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KartikVerma0&theme=blood&date_format=j%20M%5B%20Y%5D&fire=DD5252)](https://git.io/streak-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=KartikVerma0)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KartikVerma0&theme=moltack&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
