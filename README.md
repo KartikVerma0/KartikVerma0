@@ -52,5 +52,6 @@
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KartikVerma0&theme=blood&date_format=j%20M%5B%20Y%5D&fire=DD5252)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=KartikVerma0)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KartikVerma0&theme=moltack&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
