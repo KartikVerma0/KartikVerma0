@@ -45,6 +45,7 @@
   <img src="https://greensock.com/uploads/monthly_2020_03/tweenmax.png.cf27916e926fbb328ff214f66b4c8429.png" title="GSAP" **alt="GSAP" width="40" height="40"/>&emsp;
   <img src="https://expressjs.com/images/favicon.png" title="ExpressJS" **alt="ExpressJS" width="40" height="40"/>&emsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" **alt="MongoDB" width="40" height="40"/>&emsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongoose/mongoose-original.svg" title="MongooseJS" **alt="MongooseJS" width="40" height="40"/>&emsp;
 </div>
 <br><br>
 <div>
