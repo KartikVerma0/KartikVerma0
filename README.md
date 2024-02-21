@@ -22,8 +22,7 @@
   <h1>Hey There :wave:</h1>
   <ul>
     <li>Student at Chitkara University 🧑‍🎓
-    <li>Front End Web Developer { }  👨‍💻
-    <li>NCC Cadet :india: :crossed_swords:
+    <li>Full-Stack Web Developer { }  👨‍💻
     <li>Connect with Me: &emsp;<a href="https://www.linkedin.com/in/kartikvr/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/></a>
   </ul>
 </span>
