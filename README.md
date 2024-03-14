@@ -45,6 +45,8 @@
   <img src="https://expressjs.com/images/favicon.png" title="ExpressJS" **alt="ExpressJS" width="40" height="40"/>&emsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" **alt="MongoDB" width="40" height="40"/>&emsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongoose/mongoose-original.svg" title="MongooseJS" **alt="MongooseJS" width="40" height="40"/>&emsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg" title="Sequelize ORM" **alt="Sequelize ORM" width="40" height="40"/>&emsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" **alt="MySQL" width="40" height="40"/>&emsp;
 </div>
 <br><br>
 <div>
